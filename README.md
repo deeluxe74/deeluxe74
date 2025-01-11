@@ -1,23 +1,17 @@
-# Hello, I'm Raphaël,
+# Hello, I'm Raphaël
 
-<table>
-  <tr>
-    <td>
-      <img width="100%" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV1ZGllbnRhNXJydHE2ZzRlampqNHhldnFobmZ1NW5ia21jZW15eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"/>
-    </td>
-    <td>
-      I'm a JS developer.<br/>
-      I'm not bad with Vue.js and Nuxt, I like the principal of Next.js, doing everything at one place ⚡️.<br/>
-      I live in Annecy - Haute-Savoie - France, and like it a lot!<br/>
-      Almost forgot, if you want to reach me send an email, I have no social account.
-      <a href="mailto:rollet.raphael@gmail.com?subject=Bonjour!">
-       rollet.raphael@gmail.com
-      </a>
-      <br/><br/>
-      Following, there are some illustration of me when I try to solve a bug.
-    </td>
-  </tr>
-</table>
+<p>
+    I'm a JS developer.<br/>
+    I'm not bad with Vue.js and Nuxt, I like the principal of Next.js, doing everything at one place ⚡️.<br/>
+    I live in Annecy - Haute-Savoie - France, and like it a lot!<br/>
+    Almost forgot, if you want to reach me send an email, I have no social account.
+    <br/>
+    <a href="mailto:rollet.raphael@gmail.com?subject=Bonjour!">
+     rollet.raphael@gmail.com
+    </a>
+    <br/><br/>
+    Following, there are some illustration of me when I try to solve a bug:
+</p>
 
 <br/><br/>
 
